@@ -1,0 +1,39 @@
+Chapter 1 -- Intro to Algo
+Main Discussion on Algorithm correctness
+
+Problem and an instance
+
+A problem covers all the instances
+for example in sorting a problem should cover sorting for every instance  ...sorting names , sorting numbers ..so these types are the instances
+and the problem is to make something that sorts everything.
+
+
+Insertion Sort
+
+The Same Old Sort
+Starting from Element 1 and comparing it with 0th element and replacing if found small
+a while loop inside for loop plays key role
+
+
+
+There are three desirable properties for a good algorithm. We seek algorithms
+that are correct and efficient, while being easy to implement. These goals may not
+be simultaneously achievable
+
+
+Correct algorithms usually come with
+a proof of correctness, which is an explanation of why we know that the algorithm
+must take every instance of the problem to the desired result
+
+
+Problem specifications have two parts: (1) the set of allowed input instances,
+and (2) the required properties of the algorithm’s output. It is impossible to prove
+the correctness of an algorithm for a fuzzily-stated problem. Put another way, ask
+the wrong problem and you will get the wrong answer.
+
+
+Take-Home Lesson: An important and honorable technique in algorithm design
+is to narrow the set of allowable instances until there is a correct and
+efficient algorithm. For example, we can restrict a graph problem from general
+graphs down to trees, or a geometric problem from two dimensions down to
+one.
