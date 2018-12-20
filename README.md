@@ -1,2 +1,2 @@
-# DSnAlgoStuff-Deprocated
+# DSnAlgoStuff-Deprecated
 Basics to Advance 
